@@ -1,0 +1,22 @@
+
+body {
+    font-family: monospace;
+    background: #f5f5f5;
+}
+
+.header {
+    background: linear-gradient(135deg, #6b9e82, #c4d4af);
+    border-bottom: black 1.5px solid;
+}
+
+.produto {
+    border: none;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    background: white;
+}
+
+.produto img {
+    height: 250px;
+    object-fit: cover;
+}
