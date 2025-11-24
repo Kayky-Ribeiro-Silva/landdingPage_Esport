@@ -1,0 +1,42 @@
+body{
+    font-family: monospace;
+    line-height: 1.6;
+}
+
+header{
+    background: linear-gradient(135deg, #6b9e82, #c4d4af);
+    border-bottom: black solid 1.5px;
+}
+
+a{
+    font-family: monospace;
+}
+
+.hero{
+    background: linear-gradient(135deg, #d2e4bd, #588d70);
+    color: black;
+}
+
+.card{
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    align-items: center;
+}
+
+.card-title{
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.card-title{
+    font-size: 1rem;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    color: #d2e4bd;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #588d70;
+}
